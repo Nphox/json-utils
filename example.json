@@ -1,0 +1,88 @@
+{
+    "responses": [
+        {
+            "requestId": "1",
+            "type": "FDD",
+            "data": [
+                {
+                    "code": "G2",
+                    "data": [
+                        {
+                            "code": "2019",
+                            "data": [
+                                {
+                                    "sum": -1,
+                                    "code": 2
+                                },
+                                {
+                                    "text": "S",
+                                    "code": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "code": "G1",
+                    "data": [
+                        {
+                            "code": "2019",
+                            "data": [
+                                {
+                                    "sum": -1,
+                                    "code": 1
+                                },
+                                {
+                                    "text": "F",
+                                    "code": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "requestId": "2",
+            "type": "FDS",
+            "data": [
+                {
+                    "code": "G2",
+                    "data": [
+                        {
+                            "code": "2019",
+                            "data": [
+                                {
+                                    "sum": -1,
+                                    "code": 12
+                                },
+                                {
+                                    "text": "A",
+                                    "code": 10
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "code": "G1",
+                    "data": [
+                        {
+                            "code": "2019",
+                            "data": [
+                                {
+                                    "sum": -1,
+                                    "code": "BB"
+                                },
+                                {
+                                    "text": "K",
+                                    "code": "BA"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
